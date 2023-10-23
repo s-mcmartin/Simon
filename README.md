@@ -12,7 +12,7 @@
 
 Welcome to Simon - Your Go-To JavaScript Game!
 
-Simon is more than just a random data generator; it's a simple and fun JavaScript game, created as a project for a The Complete 2023 Web Developer Bootcamp. Test your memory and agility while having a great time. Whether you're a developer, a coding enthusiast, or someone looking for a nostalgic gaming experience, Simon is here for you.
+Simon is a simple and fun JavaScript game, created as a project for a The Complete 2023 Web Developer Bootcamp. Test your memory and agility while having a great time. Whether you're a developer, a coding enthusiast, or someone looking for a nostalgic gaming experience, Simon is here for you.
 
 ## Features 🚀
 
@@ -46,7 +46,7 @@ Have questions, ideas, or just want to say hello? Reach out to us by [creating a
 
 ## Acknowledgments 🙏
 
-Simon was created as a coding bootcamp project, demonstrating the power of JavaScript in building engaging web applications. We hope you enjoy playing it as much as we enjoyed creating it.
+Simon was created as a project for The Complete 2023 Web Developer Bootcamp, App Brewery, Dr.Angela Yu demonstrating the power of JavaScript in building engaging web applications. We hope you enjoy playing it as much as we enjoyed creating it.
 
 Have a blast with Simon! 🎮
 
